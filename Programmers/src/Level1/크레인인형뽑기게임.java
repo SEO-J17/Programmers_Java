@@ -23,6 +23,7 @@ public class 크레인인형뽑기게임 {
 	    }
 	    return answer;
 	  }
+}
 /*	
 	 @Test
 	  public void 정답(){
@@ -32,4 +33,3 @@ public class 크레인인형뽑기게임 {
 
 	  }
 	  */
-}
