@@ -27,3 +27,5 @@ public class 프린터 {
 		    }                                   
 		}
 }
+//PriorityQueue는 우선순위로 자동으러 정렬되서 사용된다.
+//이 문제는 크기가 큰것이 앞에 가야 함으로 컬렉션의 reverseOrder를 사용했다.
