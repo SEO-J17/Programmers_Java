@@ -1,5 +1,4 @@
 package Level1;
-
 public class 모의고사 {
 	class Solution {
 	    public int[] solution(int[] answers) {
