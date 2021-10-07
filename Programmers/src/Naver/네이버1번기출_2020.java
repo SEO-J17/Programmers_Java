@@ -5,7 +5,7 @@ package Naver;
 import java.io.*;
 import java.util.*;
 
-public class 네이버1번기출_2020 {
+public class 네이버1번기출_2020 {		//프로그래머스 위클리 챌린지 2주차_상호평가 문제임
 	class Solution {
 		public String solution(int[][] scores) {
 			String answer = "";
