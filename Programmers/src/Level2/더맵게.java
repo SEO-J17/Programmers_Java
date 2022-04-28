@@ -12,7 +12,7 @@ public class ´õ¸Ê°Ô {
 			for (int i = 0; i < scoville.length; i++) {
 				qu.add(scoville[i]);
 			}
-
+				
 			while (qu.peek() <= K) {
 				if (qu.size() <= 1) {
 					answer = -1;
