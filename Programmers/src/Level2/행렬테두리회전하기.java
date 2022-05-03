@@ -42,8 +42,8 @@ public class 행렬테두리회전하기 {
 					arr[x1][j] = arr[x1][j - 1];
 					min = Math.min(min, arr[x1][j]);
 				}
-				arr[x1][y1 + 1] = temp;
 
+				arr[x1][y1 + 1] = temp;
 				answer[i] = min;
 
 			}
