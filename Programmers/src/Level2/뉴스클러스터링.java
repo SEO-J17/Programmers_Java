@@ -15,7 +15,7 @@ public class 뉴스클러스터링 {
 			calc(str2, list2);
 
 			for (String s : list1) {
-				if (list2.remove(s)) {
+				if (list2.remove(s)) {		//list.remove는 리턴타입이 boolean 타입이다.
 					list4.add(s);
 				}
 				list3.add(s);
